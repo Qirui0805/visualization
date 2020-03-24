@@ -1,0 +1,13 @@
+spring:
+  freemarker:
+    suffix: .ftl
+  http:
+    encoding:
+      force: true
+      charset: UTF-8
+      enabled: true
+addx:
+  username: addx
+  password: addx2019
+server:
+  port: 8085
