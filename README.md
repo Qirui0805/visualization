@@ -4,4 +4,4 @@
 - 前端：Vue.js, Echarts
 - 后端：SpringBoot, MySql, ElasticSearch Client
 ### 演示
-![](https://github.com/Qirui0805/visualization/blob/master/ADDX_1.gif)
+<img src="https://github.com/Qirui0805/visualization/blob/master/ADDX_1.gif" width="600">
